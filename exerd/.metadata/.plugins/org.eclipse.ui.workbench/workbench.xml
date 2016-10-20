@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <workbench progressCount="14" version="2.0">
 <workbenchAdvisor/>
-<window height="1040" width="960" x="960" y="0">
+<window height="1040" width="960" x="210" y="147">
 <fastViewData fastViewLocation="1024"/>
 <perspectiveBar>
 <itemSize x="160"/>
@@ -31,8 +31,8 @@
 </folder>
 </info>
 </editorArea>
-<editor activePart="true" focus="true" id="com.tomato.exerd.editor.DiagramEditor" name="bookmall.exerd" partName="bookmall.exerd" path="D:/LSW/exerd/bitdb/bookmall.exerd" title="bookmall.exerd" tooltip="bitdb/bookmall.exerd" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/bitdb/bookmall.exerd"/>
+<editor activePart="true" focus="true" id="com.tomato.exerd.editor.DiagramEditor" name="webdb.exerd" partName="webdb.exerd" path="D:/LSW/exerd/bitdb/webdb.exerd" title="webdb.exerd" tooltip="bitdb/webdb.exerd" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/bitdb/webdb.exerd"/>
 </editor>
 </editors>
 <views>
@@ -147,7 +147,7 @@
 <presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory"/>
 </folder>
 </info>
-<info folder="true" part="org.eclipse.ui.internal.ViewStack@9f0070" ratio="0.7540279" ratioLeft="702" ratioRight="229" relationship="4" relative="org.eclipse.ui.editorss">
+<info folder="true" part="org.eclipse.ui.internal.ViewStack@9f0070" ratio="0.8034372" ratioLeft="748" ratioRight="183" relationship="4" relative="org.eclipse.ui.editorss">
 <folder activePageID="org.eclipse.ui.console.ConsoleView" appearance="2" expanded="2">
 <page content="com.tomato.exerd.ui.views.domain" label="도메인"/>
 <page content="com.tomato.exerd.validate.ui.ValidateView" label="검토"/>
@@ -178,6 +178,7 @@
 <editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.tomato.exerd.editor.DiagramEditor" path="/bitdb/musicshop.exerd"/>
 <editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.ui.DefaultTextEditor" path="/bitdb/.project"/>
 <editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.tomato.exerd.editor.DiagramEditor" path="/bitdb/bookmall.exerd"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.tomato.exerd.editor.DiagramEditor" path="/bitdb/webdb.exerd"/>
 </editors>
 <item historyLabel="bookshop.exerd" index="0"/>
 <item historyLabel="bookshop.exerd" index="0"/>
@@ -193,7 +194,8 @@
 <item historyLabel="bookshop.exerd" index="0"/>
 <item historyLabel="bookmall.exerd" index="3"/>
 <item historyLabel="bookshop.exerd" index="0"/>
-<item active="true" historyLabel="bookmall.exerd" index="3"/>
+<item historyLabel="bookmall.exerd" index="3"/>
+<item active="true" historyLabel="webdb.exerd" index="4"/>
 </navigationHistory>
 <input factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/" type="8"/>
 </page>
@@ -211,6 +213,9 @@
 </trimLayout>
 </window>
 <mruList>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.tomato.exerd.editor.DiagramEditor" name="webdb.exerd" tooltip="bitdb/webdb.exerd">
+<persistable path="/bitdb/webdb.exerd"/>
+</file>
 <file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.tomato.exerd.editor.DiagramEditor" name="bookmall.exerd" tooltip="bitdb/bookmall.exerd">
 <persistable path="/bitdb/bookmall.exerd"/>
 </file>
